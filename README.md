@@ -1,7 +1,5 @@
 # Wrong-Direction-Driving-Vehicle-Detection
 
-# Wrong-Direction-Driving-Vehicle-Detection
-
 Requirements: Python and OpenCV should be installed
 
 How to execute this code:

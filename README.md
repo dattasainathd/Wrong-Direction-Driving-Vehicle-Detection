@@ -14,4 +14,6 @@ command: python cv_final_project.py <video_file_name.MOV> TRUE
 Output will displayed after the file ends executing
 example: python cv_final_project.py leftcorrect_rightcorrect.MOV TRUE
 
+Youtube Link: https://www.youtube.com/watch?v=24vkaitoxJ0&feature=youtu.be
+
 Note: I have written all of the image processing steps, it takes longer execution time than utilizing the function of OpenCV.
